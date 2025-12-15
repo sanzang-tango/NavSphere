@@ -885,6 +885,14 @@
               "href": "https://zeabur.com/zh-CN/",
               "description": "你的 AI DevOps 工程师 —— 以最熟悉的方式与 AI 对话，轻松将任何项目部署到任意云端平台。",
               "icon": "/assets/favicon_1765784547337.png"
+            },
+            {
+              "id": "item-1765784604709",
+              "enabled": true,
+              "title": "Northflank — Deploy any project in seconds, in our cloud or yours.",
+              "href": "https://northflank.com/",
+              "description": "Northflank is the comprehensive developer platform designed for scale. Seamlessly deploy and release any project on our cloud or in yours.",
+              "icon": "https://northflank.com/favicon.ico"
             }
           ]
         },
