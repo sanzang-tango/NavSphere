@@ -877,6 +877,14 @@
               "description": "Self-hosting platform with superpowers. Deploy apps, databases &#38; 280+ services to your server. Open-source alternative to Heroku.",
               "icon": "/assets/favicon_1761279686786.png",
               "enabled": true
+            },
+            {
+              "id": "item-1765784571462",
+              "enabled": true,
+              "title": "Zeabur - 你的 AI DevOps 工程师",
+              "href": "https://zeabur.com/zh-CN/",
+              "description": "你的 AI DevOps 工程师 —— 以最熟悉的方式与 AI 对话，轻松将任何项目部署到任意云端平台。",
+              "icon": "/assets/favicon_1765784547337.png"
             }
           ]
         },
