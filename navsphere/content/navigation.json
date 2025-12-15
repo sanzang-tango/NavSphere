@@ -909,6 +909,14 @@
               "href": "https://ap-southeast-1.run.claw.cloud/signin",
               "description": "Claw Cloud",
               "icon": "https://ap-southeast-1.run.claw.cloud/icons/favicon-32x32.png"
+            },
+            {
+              "id": "item-1765784667732",
+              "enabled": true,
+              "title": "Koyeb: High-performance Infrastructure for APIs, Inference, and Databases",
+              "href": "https://www.koyeb.com/",
+              "description": "Deploy intensive applications across GPUs, CPUs, and Accelerators in minutes - scale in 50+ locations.",
+              "icon": "https://www.koyeb.com/favicon/favicon.ico"
             }
           ]
         },
