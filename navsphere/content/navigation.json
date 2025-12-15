@@ -532,6 +532,14 @@
               "description": "访问 www.aliyun.com",
               "icon": "/assets/favicon_1765702732530.png",
               "enabled": true
+            },
+            {
+              "id": "item-1765784202665",
+              "enabled": true,
+              "title": "最全面的人工智能驱动DevSecOps平台",
+              "href": "https://about.gitlab.com/",
+              "description": "From planning to production, bring teams together in one application. Ship secure code more efficiently to deliver value faster.",
+              "icon": "https://about.gitlab.com/images/ico/favicon.ico"
             }
           ]
         },
