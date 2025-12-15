@@ -917,6 +917,14 @@
               "href": "https://www.koyeb.com/",
               "description": "Deploy intensive applications across GPUs, CPUs, and Accelerators in minutes - scale in 50+ locations.",
               "icon": "https://www.koyeb.com/favicon/favicon.ico"
+            },
+            {
+              "id": "item-1765784680099",
+              "enabled": true,
+              "title": "Hugging Face – The AI community building the future.",
+              "href": "https://huggingface.co/",
+              "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+              "icon": "https://huggingface.co/favicon.ico"
             }
           ]
         },
