@@ -901,6 +901,14 @@
               "href": "https://railway.com/",
               "description": "Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.",
               "icon": "https://railway.com/favicon-16x16.png"
+            },
+            {
+              "id": "item-1765784649270",
+              "enabled": true,
+              "title": "ClawCloud Run",
+              "href": "https://ap-southeast-1.run.claw.cloud/signin",
+              "description": "Claw Cloud",
+              "icon": "https://ap-southeast-1.run.claw.cloud/icons/favicon-32x32.png"
             }
           ]
         },
